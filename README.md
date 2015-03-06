@@ -5,7 +5,7 @@ PKCS12 (.p12) file in a buffer or base64 encoded string. Usage is pretty simple
 and straightforward:
 
 ```javascript
-var p12ToPem = require("../p12ToPem.js");
+var p12ToPem = require("../p12-to-pem.js");
 var p12File = fs.readFileSync("/path/to.p12");
 var privateKey = p12ToPem(p12File, "password");
 ```

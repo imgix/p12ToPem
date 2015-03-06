@@ -1,5 +1,5 @@
 {
-  "name": "p12ToPem",
+  "name": "p12-to-pem",
   "version": "1.0.0",
   "description": "Extract the private key from a PKCS12 file.",
   "main": "p12ToPem.js",
