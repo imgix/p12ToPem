@@ -11,4 +11,4 @@ var privateKey = p12ToPem(p12File, "password");
 ```
 
 This library is licensed under the BSD 2-clause license, copyright 2015 Zebrafish Labs, Inc.
-See [`LICENSE` file](https://github.com/zebrafishlabs/p12ToPem/blob/master/LICENSE) for details.
+See [`LICENSE` file](https://github.com/imgix/p12ToPem/blob/master/LICENSE) for details.
